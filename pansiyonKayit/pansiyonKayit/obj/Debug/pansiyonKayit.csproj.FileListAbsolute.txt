@@ -1,0 +1,10 @@
+C:\Users\ozan_\source\repos\pansiyonKayit\pansiyonKayit\bin\Debug\pansiyonKayit.exe.config
+C:\Users\ozan_\source\repos\pansiyonKayit\pansiyonKayit\bin\Debug\pansiyonKayit.exe
+C:\Users\ozan_\source\repos\pansiyonKayit\pansiyonKayit\bin\Debug\pansiyonKayit.pdb
+C:\Users\ozan_\source\repos\pansiyonKayit\pansiyonKayit\obj\Debug\pansiyonKayit.csprojAssemblyReference.cache
+C:\Users\ozan_\source\repos\pansiyonKayit\pansiyonKayit\obj\Debug\pansiyonKayit.Form1.resources
+C:\Users\ozan_\source\repos\pansiyonKayit\pansiyonKayit\obj\Debug\pansiyonKayit.Properties.Resources.resources
+C:\Users\ozan_\source\repos\pansiyonKayit\pansiyonKayit\obj\Debug\pansiyonKayit.csproj.GenerateResource.cache
+C:\Users\ozan_\source\repos\pansiyonKayit\pansiyonKayit\obj\Debug\pansiyonKayit.csproj.CoreCompileInputs.cache
+C:\Users\ozan_\source\repos\pansiyonKayit\pansiyonKayit\obj\Debug\pansiyonKayit.exe
+C:\Users\ozan_\source\repos\pansiyonKayit\pansiyonKayit\obj\Debug\pansiyonKayit.pdb
